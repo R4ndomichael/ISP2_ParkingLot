@@ -22,7 +22,7 @@
 
 
         <footer class="container" style="position: fixed; bottom: 0; text-align: center;">
-            <p>&copy; 2017–2025 Company, Inc.</p>
+            <p>&copy; 2017–2025 Car Company, Inc.</p>
         </footer>
 
     </body>
